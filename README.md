@@ -378,8 +378,8 @@ source show_al_working_ok.sql;
 ## 5. Database Credentials (for Evaluator)
 
 * **Main Database:** `clinical_trials_db`
-* **MySQL User:** `hospital_manager`
-* **Password:** `Manager2026!`
+* **MySQL User:** 
+* **Password:** 
 
 ---
 
