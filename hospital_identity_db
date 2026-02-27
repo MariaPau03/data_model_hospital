@@ -1,0 +1,8 @@
+CREATE DATABASE hospital_identity_db;
+USE hospital_identity_db;
+
+CREATE TABLE PatientMapping (
+    pseudo_id INT PRIMARY KEY, -- El mismo ID que en la otra BD
+    real_name VARCHAR(255),
+    national_id VARCHAR(50) -- DNI/NIE
+);
